@@ -1,4 +1,5 @@
 # Travis Build [![Build Status](https://travis-ci.org/travis-ci/travis-build.png?branch=master)](https://travis-ci.org/travis-ci/travis-build)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Ftravis-build.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Ftravis-build?ref=badge_shield)
 
 Travis Build is a library that [Travis
 Workers](https://github.com/travis-ci/travis-worker) use to generate a shell
@@ -68,3 +69,6 @@ See LICENSE file.
 
 Copyright (c) 2011-2014 [Travis CI development
 team](https://github.com/travis-ci).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Ftravis-build.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Ftravis-build?ref=badge_large)
